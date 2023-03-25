@@ -13,7 +13,7 @@ coding style and approach to problem-solving.
 As I continue to work on new challenges,
 I look forward to honing my skills even further.
 
-## Table of Contents 📖
+## Table of Solutions 📖
 | #  | Challenge | Solution Directory | Solution Demo |
 | -- | --------- | ------------------ | ------------- |
 | 1 | QR Code Component | [Go to Directory](https://github.com/saadsawash/frontendmentor/tree/main/challenges/qr-code-component) | [Go to Demo](https://saadsawash.github.io/frontendmentor/challenges/qr-code-component/) |
