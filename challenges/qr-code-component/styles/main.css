@@ -12,13 +12,19 @@
   margin: 0;
 }
 
+html {
+  height: 100%;
+}
+
 body {
   background-color: var(--light-gray);
   font-family: 'Outfit', sans-serif;
+  min-height: 100%;
   
   /* TO CENTER THE CARD HORIZONTALLY & VERTICALLY */
   display: flex;
   justify-content: center;
+  align-items: center;
   /*
     I DON'T WANT TO VERTICALLY CENTER THE CARD.
     BECAUSE THAT WILL REQUIRE GIVING THE BODY A HEIGHT
