@@ -20,17 +20,9 @@ body {
   background-color: var(--light-gray);
   font-family: 'Outfit', sans-serif;
   min-height: 100%;
-  
-  /* TO CENTER THE CARD HORIZONTALLY & VERTICALLY */
   display: flex;
   justify-content: center;
   align-items: center;
-  /*
-    I DON'T WANT TO VERTICALLY CENTER THE CARD.
-    BECAUSE THAT WILL REQUIRE GIVING THE BODY A HEIGHT
-    OF 100%, AND THAT MAKES THE CARD LOOK BAD ON VERY SMALL
-    SCREENS SUCH AS THE iPHONE 4.
-  */
 }
 
 .card {
