@@ -17,3 +17,4 @@ I look forward to honing my skills even further.
 | #  | Challenge | Solution Directory | Solution Demo |
 | -- | --------- | ------------------ | ------------- |
 | 1 | QR Code Component | [Go to Directory](https://github.com/saadsawash/frontendmentor/tree/main/challenges/qr-code-component) | [Go to Demo](https://saadsawash.github.io/frontendmentor/challenges/qr-code-component/) |
+| 2 | Product Preview Card Component | [Go to Directory](https://github.com/saadsawash/frontendmentor/tree/main/challenges/product-preview-card-component) | [Go to Demo](https://saadsawash.github.io/frontendmentor/challenges/product-preview-card-component/) |
